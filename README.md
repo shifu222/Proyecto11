@@ -26,3 +26,5 @@ git clone https://github.com/Software-Dev-CC3S2-Team-11/url-shortener-git-flow
 cd url-shortener-trunk-based
 bash "./run_app.sh"
 ```
+
+[Videos Sprint](https://drive.google.com/drive/folders/1OhyuzLMx4Jxb6spb3BQfV6KLZ5CX3Lkt?usp=sharing)
